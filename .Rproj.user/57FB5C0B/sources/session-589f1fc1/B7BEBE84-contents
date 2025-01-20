@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Roberto Ezcurra" 
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: contact.qmd
+        text: Contact   
+        
+    
+      
+        
+        
+
+format:
+  html:
+    theme: 
+      - html/ath.scss
+    grid: 
+      body-width: 900px
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
+
+editor: visual
+
