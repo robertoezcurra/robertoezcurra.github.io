@@ -1,25 +1,26 @@
+`<p style="margin-top: 80px;`{=html}margin-left: -150px;`text-align: justify;">`{=html}
 
+Welcome to my website.
 
-<p style="margin-top: 80px; text-align: justify;">
-
-Welcome to my web page.
-
-I am a Professor of Economics at <a href="https://www.unavarra.es">Universidad Pública de Navarra</a>. 
+I am a Professor of Economics at <a href="https://www.unavarra.es">Universidad Pública de Navarra</a>.
 
 Research interests:
 
 <ul>
-    <li>Regional economics.</li>
-    <li>Political economy.</li>
-    <li>Comparative economic development.</li>
-    <li>Spatial econometrics.</li>
+
+<li>Regional economics.</li>
+
+<li>Political economy.</li>
+
+<li>Comparative economic development.</li>
+
+<li>Spatial econometrics.</li>
+
 </ul>
 
-<a href="https://scholar.google.com">Google Scholar profile</a>
+<a href="https://scholar.google.es/citations?user=LcM7RFwAAAAJ&hl=en">Google Scholar profile</a>
+
 </p>
 
-<img src="images/campus.jpg" alt="Descripción de la imagen" 
-     style="float: right; width: 450px; height: 290px; margin-right: -95px; margin-bottom: 10px; margin-top: -300px;">
-     
-     
-     
+```{=html}
+```

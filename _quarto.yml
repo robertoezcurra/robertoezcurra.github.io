@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Roberto Ezcurra" 
@@ -19,17 +20,7 @@ website:
 
 format:
   html:
-    theme: 
-      - html/ath.scss
-    grid: 
-      body-width: 900px
-    toc: false
-    code-link: true
-    anchor-sections: true
-    fig-cap-location: margin
-    reference-location: margin
-    footnotes-hover: true
-    highlight-style: monokai
+    theme: yeti
 
 editor: visual
 
