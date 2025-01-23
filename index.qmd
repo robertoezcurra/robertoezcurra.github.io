@@ -1,8 +1,10 @@
+<meta name="google-site-verification" content="vwr1joLFCyDPuYjpTWq74my55eIyr6VwC7V8fLWZz-s" />
+
 `<p style="margin-top: 80px;`{=html}margin-left: -150px;`text-align: justify;">`{=html}
 
 Welcome to my website.
 
-I am a Professor of Economics at <a href="https://www.unavarra.es">Universidad Pública de Navarra</a>.
+I am a Professor of Economics at the <a href="https://www.unavarra.es">Universidad Pública de Navarra</a>.
 
 Research interests:
 
@@ -18,7 +20,7 @@ Research interests:
 
 </ul>
 
-<a href="https://scholar.google.es/citations?user=LcM7RFwAAAAJ&hl=en">Google Scholar profile</a>
+<a href="https://scholar.google.es/citations?user=LcM7RFwAAAAJ&hl=en">Google Scholar profile.</a>
 
 </p>
 
