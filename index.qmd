@@ -1,26 +1,21 @@
-`<p style="margin-top: 80px;`{=html}margin-left: -150px;`text-align: justify;">`{=html}
+::: {style="display: flex; align-items: center; justify-content: center; margin-top: 70px;"}
+<div style="flex: 1; text-align: justify; max-width: 600px;">
+Welcome to my website.  
 
-Welcome to my website.
-
-I am a Professor of Economics at the <a href="https://www.unavarra.es">Universidad Pública de Navarra</a>.
+I am a Professor of Economics at the <a href="https://www.unavarra.es">Universidad Pública de Navarra</a>.  
 
 Research interests:
 
-<ul>
+- Regional economics.  
+- Political economy.  
+- Comparative economic development.  
+- Spatial econometrics.  
 
-<li>Regional economics.</li>
+[Google Scholar profile](https://scholar.google.es/citations?user=LcM7RFwAAAAJ&hl=en).
+</div>
 
-<li>Political economy.</li>
+<div style="flex-shrink: 0; margin-left: 40px;">
+  <img src="images/foto.jpg" alt="Mi foto" width="180px" width="150px" height="200px" style="border-radius: 10px;">
+</div>
+:::
 
-<li>Comparative economic development.</li>
-
-<li>Spatial econometrics.</li>
-
-</ul>
-
-<a href="https://scholar.google.es/citations?user=LcM7RFwAAAAJ&hl=en">Google Scholar profile</a>.
-
-</p>
-
-```{=html}
-```
