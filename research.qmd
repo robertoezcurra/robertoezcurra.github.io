@@ -4,7 +4,9 @@ title: "Research"
 
 <br>
 
-[Kin-based institutions and state capacity](https://doi.org/10.1016/j.ejpoleco.2025.102676), European Journal of Political Economy 88,  102676.
+<<<<<<< HEAD
+
+[Kin-based institutions and state capacity](https://doi.org/10.1016/j.ejpoleco.2025.102676), European Journal of Political Economy 88, 102676, 2025.
 
 [Irrigation agriculture and income redistribution](https://doi.org/10.1007/s10888-025-09672-x), Journal of Economic Inequality, 2025.
 
