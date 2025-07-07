@@ -15,7 +15,7 @@ Research interests:
 </div>
 
 <div style="flex-shrink: 0; margin-left: 40px;">
-  <img src="images/foto.jpg" alt="Mi foto" width="180px" width="150px" height="200px" style="border-radius: 10px;">
+  
 </div>
 :::
 
